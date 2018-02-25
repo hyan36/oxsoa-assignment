@@ -44,7 +44,7 @@ namespace SOA.Assignment.Mooc.Controllers
         /// <summary>
         /// delete a specific subject
         /// </summary>
-        /// <param name="id"></param>
+        /// <param name="id">subject id</param>
         [HttpDelete("{id}")]
         public void Delete(string id)
         {
@@ -52,7 +52,11 @@ namespace SOA.Assignment.Mooc.Controllers
             db.Subjects.Remove(subject);
         }
 
-        // POST api/course
+        /// <summary>
+        /// create a new subject
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
         [HttpPost]
         public Subject Post([FromBody]Subject value)
         {
@@ -73,7 +77,12 @@ namespace SOA.Assignment.Mooc.Controllers
             return value;
         }
 
-        // PUT api/courses/5
+        /// <summary>
+        /// update a subject
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
         [HttpPut("{id}")]
         public Subject Put(string id, [FromBody]Subject value)
         {

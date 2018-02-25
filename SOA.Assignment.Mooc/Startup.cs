@@ -32,7 +32,7 @@ namespace SOA.Assignment.Mooc
                     Version = "v1",
                     Description = "Course API which responsible for managing courses, subject",
                     Contact = new Contact() { Email = "hyan36@gmail.com", Name = "Haihao Yan", Url = "https://github.com/hyan36" },
-                    TermsOfService = "https://github.com/hyan36"
+                    TermsOfService = "https://github.com/hyan36/oxsoa-assignment"
                 });
 
                 c.AddSecurityDefinition("Bearer", new ApiKeyScheme() { In = "header", Description = "Please insert JWT with Bearer into field", Name = "Authorization", Type = "apiKey" });

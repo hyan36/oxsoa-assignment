@@ -15,18 +15,76 @@
             get a specific course
             </summary>
             <param name="id">course id</param>
-            <returns>hello</returns>
+            <returns></returns>
         </member>
         <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Delete(System.String)">
             <summary>
             delete a specific course
             </summary>
-            <param name="id"></param>
+            <param name="id">course id</param>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Post(SOA.Assignment.Mooc.Models.Course)">
+            <summary>
+            create a new course
+            </summary>
+            <param name="value">course</param>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Put(System.String,SOA.Assignment.Mooc.Models.Course)">
+            <summary>
+            update a given course
+            </summary>
+            <param name="id">course id</param>
+            <param name="value">course object</param>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Put(System.String,System.String)">
+            <summary>
+            add a subject to a course
+            </summary>
+            <param name="id">course id</param>
+            <param name="subjectId">subject id</param>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Delete(System.String,System.String)">
+            <summary>
+            remove a subject from a course
+            </summary>
+            <param name="id">course id</param>
+            <param name="subjectId">subject id</param>
         </member>
         <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Get">
             <summary>
-            get courses
+            get all subjects
             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Get(System.String)">
+            <summary>
+            get a specific subject
+            </summary>
+            <param name="id">subject id</param>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Delete(System.String)">
+            <summary>
+            delete a specific subject
+            </summary>
+            <param name="id">subject id</param>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Post(SOA.Assignment.Mooc.Models.Subject)">
+            <summary>
+            create a new subject
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Put(System.String,SOA.Assignment.Mooc.Models.Subject)">
+            <summary>
+            update a subject
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
             <returns></returns>
         </member>
     </members>
