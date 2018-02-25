@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SOA.Assignment.Mooc</name>
+    </assembly>
+    <members>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Get">
+            <summary>
+            get courses
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Get(System.String)">
+            <summary>
+            get a specific course
+            </summary>
+            <param name="id">course id</param>
+            <returns>hello</returns>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.CourseController.Delete(System.String)">
+            <summary>
+            delete a specific course
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:SOA.Assignment.Mooc.Controllers.SubjectController.Get">
+            <summary>
+            get courses
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

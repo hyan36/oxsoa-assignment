@@ -1,0 +1,17 @@
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Docker\publish\SOA.Assignment.Mooc.deps.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Docker\publish\SOA.Assignment.Mooc.runtimeconfig.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Docker\publish\SOA.Assignment.Mooc.runtimeconfig.dev.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Docker\publish\SOA.Assignment.Mooc.dll
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Docker\publish\SOA.Assignment.Mooc.pdb
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.csproj.CoreCompileInputs.cache
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.AssemblyInfoInputs.cache
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.AssemblyInfo.cs
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.dll
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.pdb
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.deps.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.runtimeconfig.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.runtimeconfig.dev.json
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.dll
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.pdb
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\obj\Release\netcoreapp2.0\SOA.Assignment.Mooc.csprojResolveAssemblyReference.cache
+C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc\bin\Release\netcoreapp2.0\SOA.Assignment.Mooc.xml

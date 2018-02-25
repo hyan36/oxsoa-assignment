@@ -1,0 +1,11 @@
+services:
+  soa.assignment.mooc:
+    build:
+      context: C:\Users\HaihaoY\Desktop\SOA\Implementation\SOA.Assignment.Mooc\SOA.Assignment.Mooc
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: soa.assignment.mooc
+    ports:
+    - 80/tcp
+version: '3.0'
